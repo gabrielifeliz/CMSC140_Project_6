@@ -1,6 +1,7 @@
 # Project 6 - CMSC 140
 Topics:
 - Variables
+- String Datatype
 - Console Input/Output
 - Conditions (if-else)
 - Loops (while, for)
