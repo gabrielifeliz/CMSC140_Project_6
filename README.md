@@ -7,4 +7,4 @@ Topics:
 - Functions
 - Reading from File
 
-Date of Completion: 11/14/2017
+Date of Completion: 11/29/2017
