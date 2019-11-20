@@ -1,10 +1,10 @@
 # Project 6 - CMSC 140
 Topics:
 - Variables
-- String Datatype
+- ```string``` Datatype
 - Console Input/Output
-- Conditions (if-else)
-- Loops (while, for)
+- Conditions (```if```-```else```)
+- Loops (```while```, ```for```)
 - Functions
 - Reading from File
 
