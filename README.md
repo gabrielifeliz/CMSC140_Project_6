@@ -5,6 +5,6 @@ Topics:
 - Conditions (if-else)
 - Loops (while, for)
 - Functions
-- Read from File
+- Reading from File
 
 Date of Completion: 11/14/2017
